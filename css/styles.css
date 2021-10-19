@@ -1,0 +1,9 @@
+.jumbotron{
+  text-align:center;
+}
+#img {
+  float: right;
+  width: 25%;
+  margin-right:25%;
+  display: none;
+}
